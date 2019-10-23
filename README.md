@@ -16,6 +16,8 @@ There are plenty of cool artists out there you may never have heard of. Listenin
 
 The best way is consuming lots of media you enjoy, even if you can't understand it completely. If there's nothing particular that strikes your interest, I would recommend starting with something like: https://learnjapanesepod.com/
 
+Additionally, Japanese Pod 101 occasionally has some helpful videos. https://www.youtube.com/watch?v=66P5_R37vek would be a good one to start with!
+
 # Speaking
 I'll practice with you!
 
