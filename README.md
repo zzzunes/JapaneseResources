@@ -10,6 +10,9 @@ http://www.guidetojapanese.org/learn/complete/ OR
 
 Kamerman's textbook: https://pomax.github.io/nrGrammar/ 
 
+# Reading / Writing Exercises
+http://web.lyon.edu/users/mpeek/JapanWebpages/GenkiExercises.htm#Lesson
+
 # Listening
 - Watch shows on Daiweeb
 - Youtube music
