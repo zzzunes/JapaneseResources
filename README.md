@@ -23,3 +23,4 @@ https://kanji.garden/ OR
 https://www.wanikani.com/
 
 I didn't recommend wanikani before because I didn't know there were free levels. Go look at the website!
+Wanikani is the superior resource. It has a free trial, do it. Now!
