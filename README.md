@@ -18,3 +18,5 @@ Kamerman's textbook: https://pomax.github.io/nrGrammar/
 # Kanji
 https://kanji.garden/ OR
 https://www.wanikani.com/
+
+I didn't recommend wanikani before because I didn't know there were free levels. Go look at the website!
