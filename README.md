@@ -7,7 +7,7 @@ I absolutely recommend: [Rikaichamp](https://addons.mozilla.org/en-US/firefox/ad
 - [Imabi](https://imabi.net/) 
 - [Tae Kim](http://www.guidetojapanese.org/learn/complete/)
 
-# Grammer Exercises
+# Grammar Exercises
 - [Bunpro](https://bunpro.jp/)
 
 # Listening
