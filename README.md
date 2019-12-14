@@ -1,24 +1,21 @@
 # Guide to learning Japanese => step-by-step
 
 # Rikaichamp
-I absolutely recommend: https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/. Hover over Japanese text and be enlightened.
+I absolutely recommend: [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/). Hover over Japanese text and be enlightened.
 
 # Grammar
-From r/learnjapanese: https://imabi.net/ OR
-
-http://www.guidetojapanese.org/learn/complete/ OR
-
-Kamerman's textbook: https://pomax.github.io/nrGrammar/ 
+- [Imabi](https://imabi.net/) 
+- [Tae Kim](http://www.guidetojapanese.org/learn/complete/)
 
 # Reading / Writing Exercises
-http://web.lyon.edu/users/mpeek/JapanWebpages/GenkiExercises.htm#Lesson
+- [Bunpro](https://bunpro.jp/) (Recommended)
+- [Genki Quizzes](http://web.lyon.edu/users/mpeek/JapanWebpages/GenkiExercises.htm#Lesson)
 
 # Listening
 - Watch shows on Daiweeb
 - Youtube music
-- Needs more here
+- [Nihongomori](https://www.youtube.com/watch?v=ltAMkgbuaIQ&list=PLINFE8v4DOht_ejxMSqWZEZ_GYCgVqHG3)
 
 # Kanji
-https://kanji.garden/ OR
-
-https://www.wanikani.com/
+- [Wanikani](https://www.wanikani.com/) (Recommended)
+- Anki
