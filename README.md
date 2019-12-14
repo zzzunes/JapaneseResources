@@ -19,8 +19,6 @@ http://web.lyon.edu/users/mpeek/JapanWebpages/GenkiExercises.htm#Lesson
 - Needs more here
 
 # Kanji
-Anki (Desktop, Mobile) OR
-
 https://kanji.garden/ OR
 
 https://www.wanikani.com/
