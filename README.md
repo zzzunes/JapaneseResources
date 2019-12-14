@@ -7,9 +7,8 @@ I absolutely recommend: [Rikaichamp](https://addons.mozilla.org/en-US/firefox/ad
 - [Imabi](https://imabi.net/) 
 - [Tae Kim](http://www.guidetojapanese.org/learn/complete/)
 
-# Reading / Writing Exercises
-- [Bunpro](https://bunpro.jp/) (Recommended)
-- [Genki Quizzes](http://web.lyon.edu/users/mpeek/JapanWebpages/GenkiExercises.htm#Lesson)
+# Grammer Exercises
+- [Bunpro](https://bunpro.jp/)
 
 # Listening
 - Watch shows on Daiweeb
